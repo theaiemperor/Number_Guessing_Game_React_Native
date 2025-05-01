@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Number_Guessing_Game_React_Native",
-    "slug": "Number_Guessing_Game_React_Native",
+    "name": "Number Guessing Game",
+    "slug": "number-guessing-game",
     "version": "1.0.0",
     "orientation": "default",
     "icon": "./assets/icon.png",
@@ -11,9 +11,8 @@
       "resizeMode": "contain",
       "backgroundColor": "#E8B3B3"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "newArchEnabled": true,
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
